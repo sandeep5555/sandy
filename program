@@ -5,3 +5,5 @@ echo text added > file1.txt
 cat file1.txt
 ls file1.txt
 exit
+bye
+quit
